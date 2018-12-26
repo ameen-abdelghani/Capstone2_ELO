@@ -1,3 +1,5 @@
+![alt text](https://paymentweek.com/wp-content/uploads/2016/08/elo.jpg"Logo Title Text 1")
+
 # Elo Customer Loyalty
 
 ## Problem Statement
