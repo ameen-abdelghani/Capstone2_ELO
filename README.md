@@ -1,4 +1,4 @@
-![alt text](https://paymentweek.com/wp-content/uploads/2016/08/elo.jpg"Logo Title Text 1")
+![alt text](https://paymentweek.com/wp-content/uploads/2016/08/elo.jpg)
 
 # Elo Customer Loyalty
 
